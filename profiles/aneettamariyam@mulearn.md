@@ -59,6 +59,7 @@ Kerala has a good chance to do well in the technology startup world. The state h
 
 #### Highly Used Software Tools:
 
+- Visual Studio Code.
 - Developed a fully functional frontend of [hotstar](https://github.com/AneettaGeorge/hotstar_clone.git) .
 
 #### Competitive Website Profiles:
