@@ -1,6 +1,6 @@
 # Aneetta Mariyam - Portfolio
 
-#### github: https://github.com/AneettaGeorge
+#### [github profile](https://github.com/AneettaGeorge)
 
 ## Skills:
 - SQL
@@ -17,11 +17,11 @@
 
 ### 1. Hotstar Clone:
 - Developed a Hotstar clone using HTML, CSS, and JavaScript, featuring hover functionality and various other interactive features.
-- Git Repo: https://github.com/AneettaGeorge/hotstar_clone
+- [Git Repo ](https://github.com/AneettaGeorge/hotstar_clone)
 
 ### 2. Analog Clock:
 - Built an analog clock using HTML, CSS, and JavaScript, providing users with accurate time display upon site access.
-- Git Repo: https://github.com/AneettaGeorge/analogue_clock
+- [Git Repo ](https://github.com/AneettaGeorge/analogue_clock)
 
 ### 3. Game Development:
 - Developed a game using Unity 3D and C#, aimed at educating players about driving rules and road etiquette in an engaging and fun manner.
